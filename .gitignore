@@ -1,0 +1,20 @@
+# Fichiers générés par .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# Système
+Thumbs.db
+.DS_Store
+
+# Projet de démonstration du professeur (non publié)
+Tests/
+
+# Notes personnelles de révision
+EXPLICATION_CODE.md
+RECAP_*.md
